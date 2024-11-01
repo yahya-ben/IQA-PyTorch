@@ -37,7 +37,7 @@ print(pyiqa.list_models())
 | TReS | `tres`, `tres-flive` | TReS with different datasets, `koniq` by default                                    |
 | FID                          | `fid` | Statistic distance between two datasets                                             |
 | CLIPIQA(+)                   |  `clipiqa`, `clipiqa+`, `clipiqa+_vitL14_512`,`clipiqa+_rn50_512`  | CLIPIQA(+) with different backbone, RN50 by default                                 |
-| MANIQA                       | `maniqa`, `maniqa-kadid`, `maniqa-pipal` | MUSIQ with different datasets, `koniq` by default                                   |
+| MANIQA                       | `maniqa`, `maniqa-kadid`, `maniqa-pipal` | MANIQA with different datasets, `koniq` by default                                   |
 | MUSIQ                        | `musiq`, `musiq-spaq`, `musiq-paq2piq`, `musiq-ava` | MUSIQ with different datasets, `koniq` by default                                   |
 | DBCNN                        | `dbcnn` |
 | PaQ-2-PiQ                    | `paq2piq` |
